@@ -5,7 +5,6 @@
             <h4>Get your team in sync, no matter the location. Streamline the processes,create team rituals and watch 
                 productivity soar
             </h4>
-           
         </div>
         <div class="hero">
             
